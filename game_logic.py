@@ -1,7 +1,4 @@
-
-
-
-
+#Spēles pamatnoteikumi
 def veikt_gajienu(pasreizejie_akmeni, punkti_dators,punkti_cilveks, gajiens, speletajs):
     
     atlikusie_akmeni = pasreizejie_akmeni - gajiens
